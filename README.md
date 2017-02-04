@@ -13,5 +13,9 @@ git commit -m \<commit message>
 
 git push origin master
 
+To get other people's changes from git, 
+
+git pull --rebase origin master
+
 Common git mistakes and how to fix them:
 https://www.codementor.io/git/tutorial/10-common-git-problems-fix
