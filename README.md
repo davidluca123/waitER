@@ -12,3 +12,6 @@ git add \<file name to add>
 git commit -m \<commit message>
 
 git push origin master
+
+Common git mistakes and how to fix them:
+https://www.codementor.io/git/tutorial/10-common-git-problems-fix
